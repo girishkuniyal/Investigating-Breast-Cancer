@@ -10,3 +10,5 @@ Apply machine learning on UCI dataset to get prediction model to detect breast c
 
 ### Data source :   
 http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wpbc.names
+
+**Breast Cancer Prediction Accuracy : *96.4%***
